@@ -1,0 +1,10 @@
+{
+  "borrow_id": "BORROW-101",
+  "book_title": "Operating System Concepts",
+  "book_type": "PHYSICAL",
+  "department": "CSE",
+  "student_id": "TEST-STUDENT-01",
+  "status": "BORROWED",
+  "due_date": "2026-11-30",
+  "daily_fine": 0
+}

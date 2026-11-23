@@ -1,0 +1,6 @@
+{
+  "check_id": "FINE-2026-11-23-001",
+  "borrow_id": "BORROW-101",
+  "days_late": 2,
+  "fine_amount": 20
+}
